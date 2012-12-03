@@ -27,7 +27,7 @@ Data is like electricity: It appears in endless variety, employing adapters and 
 
 ## Roadmap
 
-Induction is already quite useful, but there's a long way to go before it's ready for a public release--let alone a beta. After a brief hiatus, it's now steadily being developed, so you should be able to 
+Induction is already quite useful, but there's a long way to go before it's ready for a public release--let alone a beta. After a brief hiatus, it's now steadily being developed, so you should be able to see regular progress.
 
 To get a better idea of what's planned, here's a list of features expected to ship before an official release (tentative / less likely features indicated by †):
 
